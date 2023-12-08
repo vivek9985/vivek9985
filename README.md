@@ -1,4 +1,4 @@
-![Front-End Developer](https://media.licdn.com/dms/image/D5616AQH8NBsBuMEudg/profile-displaybackgroundimage-shrink_350_1400/0/1702036774029?e=1707350400&v=beta&t=Q5NDI6IXpP18OGf_8GDi1sxxlq2eo5TCB9V7iuG58xI)
+![Front-End Developer](https://github.com/vivek9985/vivek9985/blob/main/github-cover.jpg?raw=true)
 
 # Hi, my name is Vivek Anando
 
