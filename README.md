@@ -1,7 +1,8 @@
 
-![Front-End Developer](https://media.licdn.com/dms/image/C4D16AQE6hzfl5hB66A/profile-displaybackgroundimage-shrink_350_1400/0/1663001527594?e=1707350400&v=beta&t=-3DuSur1jE8cEEQjMDkq3rKIhpmHqEYxDdamPZRFrLI)
+![Front-End Developer](https://media.licdn.com/dms/image/D5616AQH8NBsBuMEudg/profile-displaybackgroundimage-shrink_350_1400/0/1702036774029?e=1707350400&v=beta&t=Q5NDI6IXpP18OGf_8GDi1sxxlq2eo5TCB9V7iuG58xI)
 ### Hi there 👋, my name is Vivek Anando
 #### Front-End Developer
+
 
 I'm a front end web developer who is passionate about making error free website with 100% client satisfaction. I love to solve real-world problems. I am strategic, goal oriented and always work with an end goal in mind.
 
