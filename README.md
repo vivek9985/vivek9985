@@ -17,6 +17,10 @@
 <a href='https://www.w3schools.com/js/'><img src='https://raw.githubusercontent.com/vivek9985/vivek9985/68f9b4dc93bb48e37f7b869a7579a68d530a5ff2/JavaScript.svg' width='40' height='40'></a>
 <a href='https://react.dev/'><img src='https://raw.githubusercontent.com/vivek9985/vivek9985/68f9b4dc93bb48e37f7b869a7579a68d530a5ff2/React.svg' width='40' height='40'></a>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=asfak00&label=Profile%20views&color=0e75b6&style=flat" alt="asfak00" /> </p>
+
+
+
 <!-- ### Connect with me
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/vivek9985) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/bishaw-bormon/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://vivek9985.github.io/main-portfolio/)
