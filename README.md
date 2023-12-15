@@ -1,6 +1,6 @@
 ![Front-End Developer](https://github.com/vivek9985/vivek9985/blob/main/github-cover.jpg?raw=true)
 
-# Hi, my name is Vivek Anando
+# Hi, my name is Bishawnath Chandra Bormon
 
 ## Front-end Developer
 
